@@ -16,7 +16,7 @@ public class Test {
 		// Създаване на новия цикъл
 		int[] array2 = new int[lenghtArray];
 		int j = 0;
-		// Цикъл for, чрез който се присвояват стойностите различни от 6. 
+		// Цикъл for, чрез който се присвояват стойностите различни от 6.
 		for (int i = 0; i < array.length; i++) {
 			if (array[i] != 6) {
 				array2[j] = array[i];
